@@ -1,0 +1,38 @@
+body{
+    width: 900px;
+    background-image: url('img/fundo.png');
+}
+
+#informacoes-e-navbar{
+    background-color: #D9D8C2;
+}
+
+#navbar{
+    padding: 15px 15px 15px 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #525264;
+    font-weight: 100;
+}
+
+.navbar-conteudo{
+    
+    
+}
+span{
+    padding-left: 10px;
+}
+
+#sobre-anna-bella{
+    background-color: #FDFBED;
+    color: #D9D8C2;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    color: black;
+}
+footer{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
