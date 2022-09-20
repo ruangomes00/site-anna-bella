@@ -37,3 +37,18 @@ h1{
     background: #e8e8d9;
     padding: 10px;
 }
+
+#contato{
+    padding-top: 15px;
+}
+
+/*----------------------------------------------------------------*/
+
+
+.foto-campanha-publicitaria{
+border: 10px solid #c3c3ae;
+}
+
+.texto-contato{
+    font-weight: bold;
+}
